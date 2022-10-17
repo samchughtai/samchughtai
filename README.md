@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samchughtai working as an Automation Architect 
 - 👀 I’m interested in Testing Architectures and Frameworks that are easy to maintain.
-- 🌱 I was working in Java and now I’m currently learning to work in microsoft stack technologies. 
+- 🌱 I was working in Java and c#
 - 📫 You can reach out to me on LinkedIn https://www.linkedin.com/in/samreenchughtai/
 
 <!---
